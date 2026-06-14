@@ -5,6 +5,7 @@ na dysku c po konfiguracji powinny znajdować się 3 foldery:
 - RaceYourCode - zawartość tego repo
   
 włączamy wtorcs.exe w /torcs
+wybieramy nowy wyścig, practise, sc_server1, corkscrew
 następnie otwieramy powershella na dysku c i wykonujemy następujące komendy:
 C:\torcs-env\Scripts\activate
 cd C:\RaceYourCode\gym_torcs
