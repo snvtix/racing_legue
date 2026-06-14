@@ -2,7 +2,7 @@
 na dysku c po konfiguracji powinny znajdować się 3 foldery:
 - torcs
 - torcs-env
-- RaceYourCode
+- RaceYourCode - zawartość tego repo
   
 włączamy wtorcs.exe w /torcs
 następnie otwieramy powershella na dysku c i wykonujemy następujące komendy:
