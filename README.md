@@ -4,7 +4,7 @@ https://login.ibm.com/authsvc/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authen
 Na dysku C po konfiguracji powinny znajdować się 3 foldery:
 - torcs
 - torcs-env
-- RaceYourCode - zawartość tego repo
+- RaceYourCode\gym_torcs - zawartość tego repo
 
 Po wykonaniu wszystkich kroków, edytujemy plik torcs_jm_par.py. 
 
